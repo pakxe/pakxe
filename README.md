@@ -9,3 +9,6 @@
 - 멋쟁이 사자처럼 10기 부원, 11기 운영진-프론트엔드 팀장 [22.03 ~ 23.12]
 - [대상] 2023 INHA SW NET-Zero 공동해커톤 [23.07]
 - [은상] 10TH ANNIVERSARY 해커톤 [22.08]
+
+
+![image](https://github.com/user-attachments/assets/1b1ff696-e944-42e8-91bd-9795c11272d6)
