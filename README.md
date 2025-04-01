@@ -12,3 +12,6 @@
 
 
 ![image](https://github.com/user-attachments/assets/1b1ff696-e944-42e8-91bd-9795c11272d6)
+
+# 그 외
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pakxe_python)](https://solved.ac/pakxe_python/)
